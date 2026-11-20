@@ -1,0 +1,38 @@
+# Flutter / Dart generated files and build output
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+build/
+coverage/
+**/doc/api/
+
+# Flutter desktop platform-generated files
+/windows/flutter/ephemeral/
+/linux/flutter/ephemeral/
+/macos/Flutter/ephemeral/
+
+# Release symbolication / obfuscation files
+app.*.symbols
+app.*.map.json
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# IDE files
+.idea/
+*.iml
+
+# Operating-system and temporary files
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.class
+
+# VS Code: keep project-level launch configurations and tasks shareable
+# .vscode/
